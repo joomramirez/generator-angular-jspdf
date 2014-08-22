@@ -1,4 +1,6 @@
-http://ivanhoinacki.com/JsPDF/
+
+AngularPDF
+
 ================================================================
 
 Js PDF
@@ -9,4 +11,4 @@ Reference: - http://codepen.io/eoop/pen/hbLKi
 
 ================================================================
 
-@Author : Ivan Augusto Hoinacki!
+Author : Ivan Augusto Hoinacki
